@@ -61,7 +61,7 @@ body {
 <div class="clearfix">
   <div class="column menu">
     <ul>
-      <li><div onclick="location.href='https://eztotype.github.io/Energy-Usage-2/';" >Back</div>
+      <li><div onclick="location.href='[https://eztotype.github.io/Energy-Usage-2/](https://eztotype.github.io/Energy-Usage/)';" >Back</div>
 </li>
      
       
