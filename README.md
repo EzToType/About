@@ -71,7 +71,7 @@ body {
   <div class="column content">
   
    
-    <img id="Fusion" src="blob:chrome-untrusted://media-app/bf3900a2-6e57-471d-a51d-3f750f7feee5" width= "350" height="275" class="center">
+    <img id="Fusion" src="https://www.gannett-cdn.com/presto/2019/06/20/POEN/7bdcd29d-0cfe-4d8b-b2a9-737561f579a2-NvlLibraryMinuteToWin1.jpg?width=390&format=pjpg&auto=webp&quality=70" width= "350" height="275" class="center">
     
     <p>I started creating this website december 2022 as a 14 year old. I am a student at Stillwater Middle School in Minnesota. I started creating this website for a school project and this is my first time doing it. Currently it is Feburary 2023 afer winter break and im editing it again for the same schools class.</p>
     <p>
